@@ -1,7 +1,5 @@
 ## INTRO
 This project represents a Proof of Concept for an innovative Mixed Reality app idea! Leveraging Meta Quest 3's plane detection feature, users can now visualize various wall panels on any surface. While it hasn't yet incorporated wall scanning, this POC effectively demonstrates the immense potential of the concept. After implementing wall scanning, users will be able to visualize any wall panels on their walls.
-## TRD
-  https://docs.google.com/document/d/1b4W5IwWfMf7TyXv9bfnYm4vB0fU8jW4kDhUb_54JtqY/edit?usp=sharing
 
 ## Demo Video:
 
